@@ -1,6 +1,9 @@
 # Tax Calculator
 
 Tax Calculator is a web application that allows users to calculate their tax based on their gross annual income, extra income, age group, and total deductions. It follows specific tax calculation rules and provides a user-friendly interface for inputting data and viewing the calculated tax amount.
+<img width="1440" alt="Screenshot 2024-04-11 at 1 30 25 PM" src="https://github.com/yash74880/TaxCalculator/assets/162306120/b5fea25a-f098-4afe-8979-42ac2d8932b5">
+<img width="1440" alt="Screenshot 2024-04-11 at 1 30 32 PM" src="https://github.com/yash74880/TaxCalculator/assets/162306120/eb6ac828-f9e7-4ad0-9b48-67ce4ef8ab06">
+
 
 ## Features
 
@@ -26,7 +29,7 @@ Tax Calculator is a web application that allows users to calculate their tax bas
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/tax-calculator.git
+   git clone https://github.com/yash74880/TaxCalculator.git
    
 2. Navigate to the cloned directory:
 
