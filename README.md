@@ -31,7 +31,7 @@ Tax Calculator is a web application that allows users to calculate their tax bas
 2. Navigate to the cloned directory:
 
    ```sh
-   cd tax-calculator
+   cd TaxCalculator
 3. Open the index.html file in a web browser to use the Tax Calculator:
 
   
