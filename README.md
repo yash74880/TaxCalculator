@@ -22,7 +22,7 @@ Tax Calculator is a web application that allows users to calculate their tax bas
 - HTML
 - CSS (styles.css)
 - JavaScript (script.js)
-- Bootstrap (for styling)
+
 
 ## Usage
 
